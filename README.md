@@ -7,7 +7,7 @@
  * data.csv - 爬虫后保存起来的数据
  * emotion_analy.csv - 情感分析后把得分保存起来的数据
  
-## U新闻URL
+## 新闻链接
 http://comment.tie.163.com/E0RR7QHH0001899O.html
 
 
